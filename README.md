@@ -24,8 +24,8 @@
     d. Depth First Search :white_large_square:  
     e. Bidirectional Search :white_large_square:  
     
-    
-**Legends** . 
-:white_large_square: - Not Started . 
-:part_alternation_mark:	- In Progress . 
-:white_check_mark:	- Completed . 
+      
+**Legends** .   
+:white_large_square: - Not Started .  
+:part_alternation_mark:	- In Progress .  
+:white_check_mark:	- Completed .  
