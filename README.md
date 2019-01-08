@@ -2,7 +2,7 @@
 
 **Objective of this repo:** To implement the following data structures and concepts from scratch.
 
-1. Array List :white_large_square:
+1. Array List :white_check_mark:
 2. Hash Table :white_large_square:
 3. String Builder :white_large_square:
 4. Linked List :white_large_square:  
