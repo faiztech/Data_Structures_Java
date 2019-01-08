@@ -5,9 +5,9 @@
 1. Array List :white_large_square:
 2. Hash Table :white_large_square:
 3. String Builder :white_large_square:
-4. Linked List :white_large_square:
-    a. Singly Linked List :white_large_square:
-    b. Doubly Linked List :white_large_square:
+4. Linked List :white_large_square:  
+    a. Singly Linked List :white_large_square:  
+    b. Doubly Linked List :white_large_square:  
 5. Stacks :white_large_square:
 6. Queues :white_large_square:
 7. Trees :white_large_square:
