@@ -4,7 +4,7 @@
 
 1. Array List :white_check_mark:
 2. Hash Table :white_large_square:
-3. String Builder :white_large_square:
+3. String Builder :white_check_mark:
 4. Linked List :white_large_square:  
     a. Singly Linked List :white_large_square:  
     b. Doubly Linked List :white_large_square:  
