@@ -6,7 +6,7 @@
 2. Hash Table :white_large_square:
 3. String Builder :white_check_mark:
 4. Linked List :white_large_square:  
-    a. Singly Linked List :white_large_square:  
+    a. Singly Linked List :white_check_mark:  
     b. Doubly Linked List :white_large_square:  
 5. Stacks :white_large_square:
 6. Queues :white_large_square:
