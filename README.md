@@ -10,10 +10,10 @@
     b. Doubly Linked List :white_large_square:  
 5. Stacks :white_large_square:
 6. Queues :white_large_square:
-7. Trees :white_large_square:  
-    a. In-order Traversal :white_large_square:  
-    b. Pre-Order Traversal :white_large_square:  
-    c. Post-Order Traversal :white_large_square:  
+7. Trees :white_check_mark:  
+    a. In-order Traversal :white_check_mark:  
+    b. Pre-Order Traversal :white_check_mark:  
+    c. Post-Order Traversal :white_check_mark:  
 8. Heaps :white_large_square:  
     a. insert function :white_large_square:  
     b. extract function :white_large_square:  
